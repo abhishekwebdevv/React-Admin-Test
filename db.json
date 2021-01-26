@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is a post",
+      "published-at": "10-03-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is a post",
+      "published-at": "10-03-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is a post",
+      "published-at": "10-03-2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "THis is another post",
+      "published-at": "20-04-2020",
+      "id": "ckbZjvT"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@john.com"
+    }
+  ]
+}
